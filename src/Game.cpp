@@ -162,6 +162,16 @@ void Game::HandleEvents()
 		{
 			SDL_GetMouseState(&mouse_pos_.x, &mouse_pos_.y);
 
+			// NumType px = static_cast<NumType>(mouse_pos_.x);
+			// NumType py = static_cast<NumType>(mouse_pos_.y);
+			// NumType pw = static_cast<NumType>(1);
+			// NumType ph = static_cast<NumType>(1);
+
+			// QtItemType p = { px, py };
+			// Rect<NumType> p_area = { px, py, pw, ph };
+
+			// qt_->Insert(p, p_area);
+
 			NumType px = static_cast<NumType>(mouse_pos_.x);
 			NumType py = static_cast<NumType>(mouse_pos_.y);
 			NumType pw = static_cast<NumType>(30);
