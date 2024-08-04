@@ -8,6 +8,6 @@ Controls:
   - 'd' to toggle debugging of quadtree areas.
   - 'x' to reset quad tree.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkbzg3ZXc5Y2Zxdm1senU3NWoxb3hjbnhqaXR1dzN6YnIzZHdydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pU2ORWokwosGeWlXGi/giphy.gif" alt="animated" />
+<img src="img/quadtree.gif" alt="animated" />
 <img src="img/rect.png"/>
 <img src="img/circle.png"/>
